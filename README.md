@@ -1,7 +1,7 @@
 
 Wrote this to help out with conversions of multiple files to make it easier on me
 
-To compile, first install OpenCV 4 development librarie
+To compile, first install OpenCV 4 development libraries
 
 Output file list with
 
